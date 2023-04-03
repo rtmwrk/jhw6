@@ -13,7 +13,7 @@ public class StatsService {
 
     // Метод расчета средней суммы продаж в месяц
     public double calculateAwerageSumSalesInMonth(int[] sales) {
-        int amounts = calculateSumSales(sales) / sales.length;
+        double amounts = calculateSumSales(sales) / sales.length;
         return amounts;
     }
 

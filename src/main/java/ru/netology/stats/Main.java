@@ -6,7 +6,7 @@ public class Main {
 //        int[] sales = { 8, 15, 13, 15, 17, 20, 19, 20, 7, 14, 14, 18 };
 //        StatsService service = new StatsService();
 //
-//        // Считаем сумму продаж за указанній период
+//        // Считаем сумму продаж за указанный период
 //        int actualSumSales = service.calculateSumSales(sales);
 //        System.out.println("Сумма продаж за указанный период составила " + actualSumSales + " руб.");
 //
